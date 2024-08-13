@@ -14,6 +14,6 @@ Access the live dashboard here : https://lookerstudio.google.com/reporting/86b9e
 ![image](https://github.com/user-attachments/assets/e3fb4a70-a615-4862-b90b-bf62f9d2869b)
 **1. General Performance Overview :**
 
-A significant decline in sessions (39.7%), engaged sessions (40.7%), and e-commerce purchases (49.4%) indicates a reduction in both traffic and customer engagement.
-Event counts also decreased by 30.1%, suggesting lower interactions during the sessions
+* A significant decline in sessions (39.7%), engaged sessions (40.7%), and e-commerce purchases (49.4%) indicates a reduction in both traffic and customer engagement.
+* Event counts also decreased by 30.1%, suggesting lower interactions during the sessions
 
