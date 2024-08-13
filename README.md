@@ -23,3 +23,18 @@ Access the live dashboard here : https://lookerstudio.google.com/reporting/86b9e
 * Organic Search and Organic Social saw declines in sessions and engaged sessions, pointing to reduced effectiveness in these channels.
 * Paid Social and Referral channels showed positive growth, indicating successful marketing efforts that could be expanded.
 
+![image](https://github.com/user-attachments/assets/71e12ded-416c-4502-a8b6-905584d055d5)
+**3. Page Performance Breakdown :**
+
+* Most visited pages like the homepage and major product categories experienced significant drops in traffic and engagement, highlighting potential issues in content or SEO strategies.
+
+![image](https://github.com/user-attachments/assets/f91c4344-a563-4862-8a8e-68a96cf142b8)
+**4. Event Performance Breakdown :**
+
+* Key website activities such as session starts, page views, and purchases have declined substantially, aligning with the overall decrease in site engagement and conversions.
+
+**Recommendations**
+
+
+
+
