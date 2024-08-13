@@ -17,3 +17,9 @@ Access the live dashboard here : https://lookerstudio.google.com/reporting/86b9e
 * A significant decline in sessions (39.7%), engaged sessions (40.7%), and e-commerce purchases (49.4%) indicates a reduction in both traffic and customer engagement.
 * Event counts also decreased by 30.1%, suggesting lower interactions during the sessions
 
+![image](https://github.com/user-attachments/assets/1a1951ab-fac8-4602-8489-fc110f6edc6c)
+**2. Channel Performance Breakdown :**
+
+* Organic Search and Organic Social saw declines in sessions and engaged sessions, pointing to reduced effectiveness in these channels.
+* Paid Social and Referral channels showed positive growth, indicating successful marketing efforts that could be expanded.
+
